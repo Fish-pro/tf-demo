@@ -1,3 +1,6 @@
 .idea
 /aclImdb/
-aclImdb_v1.tar.gz
+/aclImdb_v1.tar.gz
+/stack_overflow_16k.tar.gz
+/test/
+/train/
