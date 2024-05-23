@@ -5,3 +5,9 @@
 /train/
 /stack_overflow.tar.gz
 /auto-mpg.data
+/training_1/
+/training_2/
+/checkpoints/
+/my_model.keras
+/saved_model/
+/my_model.h5

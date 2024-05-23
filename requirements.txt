@@ -110,6 +110,7 @@ python-dateutil=2.9.0post0=py38hecd8cb5_0
 python-flatbuffers=2.0=pyhd3eb1b0_0
 python-tzdata=2023.3=pyhd3eb1b0_0
 pytz=2024.1=py38hecd8cb5_0
+pyyaml=6.0.1=py38h6c40b1e_0
 re2=2022.04.01=he9d5cce_0
 readline=8.2=hca72f7f_0
 requests=2.31.0=py38hecd8cb5_1
@@ -142,6 +143,7 @@ werkzeug=2.3.8=py38hecd8cb5_0
 wheel=0.35.1=pyhd3eb1b0_0
 wrapt=1.14.1=py38hca72f7f_0
 xz=5.4.6=h6c40b1e_1
+yaml=0.2.5=haf1e3a3_0
 yarl=1.9.3=py38h6c40b1e_0
 zipp=3.17.0=py38hecd8cb5_0
 zlib=1.2.13=h4b97444_1
