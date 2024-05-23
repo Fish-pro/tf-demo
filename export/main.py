@@ -62,8 +62,8 @@ def create_model():
 
 
 # Include the epoch in the file name (uses `str.format`)
-checkpoint_path = "training_2/cp-{epoch:04d}.ckpt"
-checkpoint_dir = os.path.dirname(checkpoint_path)
+# checkpoint_path = "training_2/cp-{epoch:04d}.ckpt"
+# checkpoint_dir = os.path.dirname(checkpoint_path)
 #
 # batch_size = 32
 #
