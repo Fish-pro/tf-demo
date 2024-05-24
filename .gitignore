@@ -11,3 +11,9 @@
 /my_model.keras
 /saved_model/
 /my_model.h5
+/logs/train/events.out.tfevents.1716536539.MacBook-Pro-5.local.37372.0.v2
+/logs/validation/events.out.tfevents.1716536542.MacBook-Pro-5.local.37372.1.v2
+/logs/train/events.out.tfevents.1716536778.MacBook-Pro-5.local.37635.0.v2
+/logs/validation/events.out.tfevents.1716536780.MacBook-Pro-5.local.37635.1.v2
+/metadata.tsv
+/vectors.tsv
